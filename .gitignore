@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+TFIMG/
+*.pkl
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Images output
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# Logs
+*.log
+
+# Others
+*.sqlite3
+*.db
+*.bak
+*.tmp
+
